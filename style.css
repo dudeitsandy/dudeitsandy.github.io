@@ -1,0 +1,67 @@
+body, html {
+	width: 100%;
+}
+
+
+html {
+	background: url("dsoul.gif") no-repeat center center fixed;
+	background-color: black;
+	background-size: contain;
+}
+
+.container-fluid {
+	height: 100%;
+}
+
+body {
+	background-color: transparent;
+	height: 100%;
+}
+
+h1 {
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 200px;
+	font-family: fantasy;
+	font-size: 4em;
+	color: #C0C0C0;
+	border-bottom: 4px #88888888 solid;
+	border-right: 4px #88888888 solid;
+	box-shadow: 6px 10px #88888888;
+	width: 600px;
+	text-align: center;
+}
+
+img {
+	height: 10em;
+	width: 17em;
+	margin: 0em 4em 0em 4em;
+	border: 2px solid white;
+}
+
+.break {
+	margin-bottom: 150px;
+}
+
+
+.btn-primary {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
+
+
+.btn-primary:hover {
+  background-color: black;
+  color:white;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
+
+
+
+
+
+
