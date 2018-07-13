@@ -22,7 +22,7 @@ h1 {
 	margin-left: 0px;
 	margin-top: 10px;
 	margin-bottom: 200px;
-	font-family: fantasy;
+	font-family: 'Alegreya', serif;
 	font-size: 4em;
 	color: #C0C0C0;
 	border-bottom: 4px #88888888 solid;
@@ -49,6 +49,7 @@ img {
   border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
+  font-family: 'Alegreya', serif;
 }
 
 
@@ -58,6 +59,7 @@ img {
   border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
+  font-family: 'Alegreya', serif;
 }
 
 
